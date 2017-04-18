@@ -1,5 +1,5 @@
 /*
-------------------GERADOR DE ELF---------------------
+------------------GERADOR ELF---------------------
 Especificações:
 Trabalho realizado em C++ com uso de C++11 no Linux Ubunto 14.04 LTS
 Para rodar em linux: 
